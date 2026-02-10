@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼくたちの輝き",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-02-10T05:47:49.674542Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくたちの輝き",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくたちの輝き_FES☆TIVE.txt"
+    }
+  ]
+}
